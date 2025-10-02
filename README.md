@@ -15,7 +15,7 @@
 - Laranja: `#BC7B3B`
 
 ### Fontes
-- [Libre Baskerville, serif] ([link do Google Fonts](https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap)))
+- [Libre Baskerville, serif] ([link do Google Fonts](https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap))
 
 ## 🚀 Como Executar o Projeto
 Para visualizar o projeto, basta abrir o arquivo `index.html` em seu navegador.
