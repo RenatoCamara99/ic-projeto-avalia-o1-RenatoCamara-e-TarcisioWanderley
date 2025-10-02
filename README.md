@@ -1,4 +1,4 @@
-# CAWA Café:<br>projeto de IC para 1º avaliacao Renato Camara e Tarcisio Wanderley
+# CAWA Café:<br>projeto de IC para 1º avaliacao<br>Renato Camara e Tarcisio Wanderley
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
