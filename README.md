@@ -1,13 +1,26 @@
-# projeto de IC para 1º avaliacao Renato Camara e Tarcisio Wanderley
+# CAWA Café: projeto de IC para 1º avaliacao Renato Camara e Tarcisio Wanderley
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
 <img src="imagem.png" alt="Exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> [Seu parágrafo de 2-3 linhas explicando o que o projeto faz.]
 
-### Ajustes e melhorias
+## 💻 Tecnologias e Ferramentas
+
+### Paleta de Cores
+- Marrom Escuro: `#5A2C12`
+- Bege: `#F6F2E7`
+- Laranja: `#BC7B3B`
+
+### Fontes
+- [Libre Baskerville, serif] ([link do Google Fonts](https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap)))
+
+## 🚀 Como Executar o Projeto
+Para visualizar o projeto, basta abrir o arquivo `index.html` em seu navegador.
+
+### ✅ Checklist da Avaliação
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
