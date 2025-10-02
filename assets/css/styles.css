@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 html{
+    overflow-y: scroll;
     background-color: rgb(246, 242, 231);
 }
 html, body {
@@ -21,6 +22,7 @@ header img {
 }
 
 header a {
+    min-width: 80px; 
     font-size: 20px;
     background-color: rgb(246, 242, 231);
     color: rgb(90, 44, 18);
@@ -28,7 +30,13 @@ header a {
     border: 3px solid rgb(188, 123, 59); 
     border-radius: 50px;
     padding: 5px;
+    text-align: center; 
 }
+
+html {
+  overflow-y: scroll;
+}
+
 
 header a:hover {
     background-color: rgb(90, 44, 18);
