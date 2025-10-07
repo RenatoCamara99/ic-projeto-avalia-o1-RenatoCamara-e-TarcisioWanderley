@@ -11,7 +11,7 @@
 
 ### Paleta de Cores
 - Marrom Escuro: `#5A2C12`
-- Bege: `#F6F2E7`
+- Off-white: `#F6F2E7`
 - Laranja: `#BC7B3B`
 - Branco: `#FFFFFF`
 
