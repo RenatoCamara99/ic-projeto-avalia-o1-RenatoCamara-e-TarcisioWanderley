@@ -13,6 +13,7 @@
 - Marrom Escuro: `#5A2C12`
 - Bege: `#F6F2E7`
 - Laranja: `#BC7B3B`
+- Branco: `#FFFFFF`
 
 ### Fontes
 - [Libre Baskerville, serif] ([link do Google Fonts](https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap))
