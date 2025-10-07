@@ -28,11 +28,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] header, nav, main, footer usados com propósito.
 - [x] Hero na página principal
 - [ ] Tabela simples presente.
-- [ ] Paleta no :root (variáveis CSS).
+- [x] Paleta no :root (variáveis CSS).
 - [x] Google Fonts.
-- [ ] Imagens otimizadas com alt descritivo.
-- [ ] README com papéis, paleta, fontes e decisões.
-- [ ] Site no ar.
+- [x] Imagens otimizadas com alt descritivo.
+- [x] README com papéis, paleta, fontes e decisões.
+- [x] Site no ar.
 - [ ] Vídeo de demonstração.
 
 ## 🤝 Colaboradores
