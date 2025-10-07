@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
+:root{
+  --off-white: rgb(246, 242, 231);
+  --marrom: rgb(90, 44, 18);
+  --laranja: rgb(188, 123, 59);
+  --branco: rgb(255, 255, 255);
+}
+
 html{
     overflow-y: scroll;
-    background-color: rgb(246, 242, 231);
+    background-color: var(--off-white);;
 }
 html, body {
   margin: 0;
@@ -17,17 +24,17 @@ body{
 header img {
     height: 100px;
     width: 100px;
-    border: 5px solid rgb(188, 123, 59);
+    border: 5px solid var(--laranja);
     border-radius: 100px;
 }
 
 header a {
     min-width: 80px; 
     font-size: 20px;
-    background-color: rgb(246, 242, 231);
-    color: rgb(90, 44, 18);
+    background-color: var(--off-white);
+    color: var(--marrom);
     text-decoration: none;
-    border: 3px solid rgb(188, 123, 59); 
+    border: 3px solid var(--laranja); 
     border-radius: 50px;
     padding: 5px;
     text-align: center; 
@@ -39,14 +46,14 @@ html {
 
 
 header a:hover {
-    background-color: rgb(90, 44, 18);
-    color: rgb(246, 242, 231);
+    background-color: var(--marrom);
+    color: var(--off-white);
 }
 
 header {
     z-index: 10;
     position: relative;
-    background-color: rgb(90, 44, 18);
+    background-color: var(--marrom);
     box-shadow: 0 2px 4px black;
     display: flex;
     flex-direction: row;
@@ -79,7 +86,7 @@ header nav {
     margin-top: -60px;
     height: 500px;
     padding: 50px;
-    color: white;
+    color: var(--branco);
     text-align: center;
 }
 
@@ -98,22 +105,29 @@ header nav {
 
 .hero a {
     font-size: 20px;
-    background-color: rgb(246, 242, 231);
-    color: rgb(90, 44, 18);
+    background-color: var(--off-white);
+    color: var(--marrom);
     text-decoration: none;
-    border: 3px solid rgb(188, 123, 59); 
+    border: 3px solid var(--laranja); 
     border-radius: 50px;
     padding: 5px;
 }
 
 .hero a:hover {
-    background-color: rgb(90, 44, 18);
-    color: rgb(246, 242, 231);
+    background-color: var(--marrom);
+    color: var(--off-white);
 }
 
 main {
     padding: 0;
     margin-top: 1%;
+}
+
+.titulo-destaques {
+    text-align: center;
+    color: var(--marrom);
+    margin-bottom: 10px;
+    font-size: 28px;
 }
 
 .destaques {
@@ -124,6 +138,28 @@ main {
     padding: 20px 10px;
 }
 
+.item_destaques {
+    width: 200px; 
+    margin: 0; 
+    text-align: center; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+    border-radius: 15px; 
+    overflow: hidden; 
+    background-color: var(--branco);
+}
+
+.item_destaques img {
+    width: 100%; 
+    height: 180px;
+    object-fit: cover;
+}
+
+.item_destaques figcaption {
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--marrom);
+    padding: 15px 10px;
+}
 .apresentacao {
     display: flex;
     justify-content: center; 
@@ -149,4 +185,43 @@ main {
 
 .apresentacao h3 {
     text-align: center;
+}
+
+.funcionamento-titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.funcionamento-horarios{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacts h2 {
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+.contacts ul {
+    text-align: left;
+    padding-left: 0;
+}
+
+.mapa {
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
