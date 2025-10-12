@@ -225,3 +225,60 @@ main {
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
+
+.cardapio-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 40px 0;
+}
+
+.cardapio-table th,
+.cardapio-table td {
+  padding: 10px;
+  border-bottom: 2px solid #ccc;
+  text-align: center;
+}
+
+.cardapio-table img {
+  width: 120px;
+  border-radius: 10px;
+}
+
+.cardapio-table ul {
+  text-align: left;
+  margin: 0;
+  padding-left: 18px;
+}
+
+@media (max-width: 900px) {
+  .apresentacao {
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+    max-width: 100%;
+    padding: 10px;
+  }
+
+  .apresentacao img {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 30px;
+    margin-bottom: 20px;
+  }
+
+  .textos-apresentacao {
+    max-width: 100%;
+    font-size: 15px;
+    text-align: center;
+    width: 50%;
+  }
+  .textos-apresentacao ul {
+    padding-left: 18px;
+    margin: 0;
+    text-align: left;
+  }
+    .segunda-apresentacao {
+    flex-direction: column-reverse;
+  }
+}
