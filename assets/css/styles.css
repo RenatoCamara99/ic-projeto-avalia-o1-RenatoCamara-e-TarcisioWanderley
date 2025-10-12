@@ -272,7 +272,7 @@ footer {
 
   .apresentacao img {
     width: 100%;
-    max-width: 500px;
+    max-width: 200px;
     height: auto;
     border-radius: 30px;
     margin-bottom: 20px;
@@ -280,12 +280,12 @@ footer {
 
   .textos-apresentacao {
     max-width: 100%;
-    font-size: 25px;
+    font-size: 15px;
     text-align: center;
     width: 80%;
   }
   .textos-apresentacao ul {
-    padding-left: 25px;
+    padding-left: 18px;
     margin: 0;
     text-align: left;
   }
