@@ -250,6 +250,17 @@ main {
   padding-left: 18px;
 }
 
+footer {
+    background-color: var(--marrom);
+    color: var(--off-white);
+    text-align: center;
+    padding: 24px 0;
+    border-radius: 15px 15px 0 0;
+    font-size: 16px;
+    margin-top: 40px;
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.2);
+}
+
 @media (max-width: 900px) {
   .apresentacao {
     flex-direction: column;
