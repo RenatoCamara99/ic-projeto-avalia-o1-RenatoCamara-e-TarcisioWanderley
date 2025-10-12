@@ -26,15 +26,15 @@ Para visualizar o projeto, basta abrir o arquivo `index.html` em seu navegador.
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [x] 3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
-- [ ] header, nav, main, footer usados com propósito.
+- [x] header, nav, main, footer usados com propósito.
 - [x] Hero na página principal
-- [ ] Tabela simples presente.
+- [x] Tabela simples presente.
 - [x] Paleta no :root (variáveis CSS).
 - [x] Google Fonts.
 - [x] Imagens otimizadas com alt descritivo.
 - [x] README com papéis, paleta, fontes e decisões.
 - [x] Site no ar.
-- [ ] Vídeo de demonstração.
+- [x] Vídeo de demonstração.
 
 ## 🤝 Colaboradores
 
