@@ -59,8 +59,7 @@ header {
     flex-direction: row;
     align-items: center;
     padding: 20px;
-    border-radius: 0px 0px 15px 15px;
-    
+    border-radius: 0px 0px 15px 15px;    
 }
 
 header nav {
@@ -262,6 +261,22 @@ footer {
 }
 
 @media (max-width: 900px) {
+    header a {
+    min-width: 40px; 
+    font-size: 10px;
+    background-color: var(--off-white);
+    color: var(--marrom);
+    text-decoration: none;
+    border: 3px solid var(--laranja); 
+    border-radius: 30px;
+    padding: 5px;
+    text-align: center; 
+}
+
+header {
+    width: 100%;
+}
+
   .apresentacao {
     flex-direction: column;
     align-items: center;
