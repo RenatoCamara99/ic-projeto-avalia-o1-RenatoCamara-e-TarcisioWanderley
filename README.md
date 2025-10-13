@@ -3,9 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/RenatoCamara99/ic-projeto-avalia-o1-RenatoCamara-e-TarcisioWanderley?style=for-the-badge)
-<img src="imagem.png" alt="Exemplo imagem">
 
-> [Seu parágrafo de 2-3 linhas explicando o que o projeto faz.]
+Este projeto apresenta o site do CAWA Café, uma cafeteria acolhedora. O objetivo é proporcionar aos visitantes uma experiência digital que reflita o ambiente físico do café, destacando seu ambiente e produtos. O site conta com navegação intuitiva, design responsivo, imagens dos produtos e espaços, além de um cardápio visual para facilitar a escolha dos clientes. Tudo foi desenvolvido com foco na simplicidade, elegância e valorização dos momentos especiais que o CAWA Café oferece.
 
 ## 💻 Tecnologias e Ferramentas
 
